@@ -22,7 +22,7 @@
 
 # 👩‍💻 About Me
 
-Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Student at OmDayal Group of Institutions (Expected Graduation: 2026). I'm passionate about Data Analytics, Data Science & Machine Learning with a strong foundation in Python Programming. I love building dashboards and discovering insights from data. Always excited to learn new technologies and solve real-world problems!
+Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Student at OmDayal Group of Institutions (Expected Graduation: 2026). I'm passionate about Data Analytics, Data Science & Machine Learning. I love exploring data patterns and building data-driven solutions.
 
 ---
 
@@ -30,17 +30,17 @@ Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Stude
 
 <div align="center">
 
+🐍 **PYTHON** | 🐼 **PANDAS** | 🔢 **NUMPY** | 🤖 **SCIKIT-LEARN** | 💨 **STREAMLIT** | 🗄️ **MYSQL** | 🔧 **GIT** | 📊 **POWER BI**
 
-![PYTHON]
-![GIT](https://img.shields.io/badge/GIT-000000?style=flat)
-![PANDAS](https://img.shields.io/badge/PANDAS-000000?style=flat)
-![NUMPY](https://img.shields.io/badge/NUMPY-000000?style=flat)
-![MYSQL](https://img.shields.io/badge/MYSQL-000000?style=flat)
+![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python)
+![PANDAS](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas)
+![NUMPY](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy)
+![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikit-learn)
+![STREAMLIT](https://img.shields.io/badge/STREAMLIT-000000?style=for-the-badge&logo=streamlit)
 
-![SQLITE](https://img.shields.io/badge/SQLITE-000000?style=flat)
-![VIM](https://img.shields.io/badge/VIM-000000?style=flat)
-![TMUX](https://img.shields.io/badge/TMUX-000000?style=flat)
-![BURP SUITE](https://img.shields.io/badge/BURP%20SUITE-000000?style=flat)
+![MYSQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql)
+![GIT](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)
+![POWER BI](https://img.shields.io/badge/POWER%20BI-000000?style=for-the-badge&logo=power-bi)
 
 </div>
 
