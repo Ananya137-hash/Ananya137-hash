@@ -30,7 +30,6 @@ Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Stude
 
 <div align="center">
 
-🐍 **PYTHON** | 🐼 **PANDAS** | 🔢 **NUMPY** | 🤖 **SCIKIT-LEARN** | 💨 **STREAMLIT** | 🗄️ **MYSQL** | 🔧 **GIT** | 📊 **POWER BI**
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python)
 ![PANDAS](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas)
@@ -65,7 +64,7 @@ Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Stude
 
 🐙 GitHub: [Ananya137-hash](github.com/Ananya137-hash)
 
-📧 Email: [ananya.mahapatra@example.com](mailto:ananya.mahapatra@example.com)
+📧 Email: [sinhaananya0193@gmail.com](mailto:sinhaananya0193@gmail.com)
 
 ---
 
