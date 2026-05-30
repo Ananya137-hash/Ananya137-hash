@@ -72,29 +72,9 @@ Expected Graduation: 2026
 
 `Jupyter Notebook`
 
----
 
-# 📂 Featured Project
 
-## 🏏 IPL T20 Analysis Dashboard
 
-Interactive Power BI dashboard covering IPL data from 2008–2025.
-
-### Features
-
-✔ Team Performance Analysis
-
-✔ Season-wise Statistics
-
-✔ Orange Cap & Purple Cap Insights
-
-✔ Interactive Visualizations
-
-✔ Data Storytelling
-
-### Tools Used
-
-`Power BI` • `DAX` • `Data Analytics`
 
 ---
 
