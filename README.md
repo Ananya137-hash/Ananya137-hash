@@ -46,7 +46,7 @@ Hello There! **I'm ANANYA SINHA MAHAPATRA.**
 
 Computer Science & Engineering
 
-Expected Graduation: 2027
+Expected Graduation: 2026
 
 ---
 
