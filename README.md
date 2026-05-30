@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge"/>
 </a>
 
-<a href="mailto:ananya.mahapatra@example.com">
+<a href="mailto:sinhaananya0193@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge"/>
 </a>
 
@@ -30,9 +30,8 @@ Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Stude
 
 <div align="center">
 
-![BASH SCRIPTING](https://img.shields.io/badge/BASH%20SCRIPTING-000000?style=flat)
-![LINUX](https://img.shields.io/badge/LINUX-000000?style=flat)
-![DOCKER](https://img.shields.io/badge/DOCKER-000000?style=flat)
+
+![PYTHON]
 ![GIT](https://img.shields.io/badge/GIT-000000?style=flat)
 ![PANDAS](https://img.shields.io/badge/PANDAS-000000?style=flat)
 ![NUMPY](https://img.shields.io/badge/NUMPY-000000?style=flat)
