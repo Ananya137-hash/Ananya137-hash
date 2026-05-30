@@ -1,92 +1,100 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ananya Sinha Mahapatra</h1>
+# 👋 Hi, I'm Ananya Sinha Mahapatra
 
-<h3 align="center">💻 Computer Science Student | 📊 Data Analytics Enthusiast | 🐍 Python Developer</h3>
+### 💻 Computer Science Student | 📊 Data Analytics Enthusiast | 🐍 Python Developer
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+🐍;Data+Analytics+%26+Data+Science+📊;Machine+Learning+Enthusiast+🤖;Always+Learning+Something+New+🚀" />
-</p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge"/>
+</a>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ananya137-hash&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge"/>
+</a>
 
----
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge"/>
+</a>
 
-# 🚀 About Me
+<br><br>
 
-🎓 B.Tech Computer Science Engineering Student
+<img src="https://komarev.com/ghpvc/?username=Ananya137-hash&label=PROFILE+VISITORS&style=for-the-badge&color=0e75b6"/>
 
-📊 Passionate about Data Analytics & Data Science
-
-🐍 Love solving problems using Python
-
-📈 Interested in Business Intelligence and Data Visualization
-
-🌱 Currently learning:
-- Machine Learning
-- Power BI
-- Python
-- SQL
-- Data Analytics
-
-
-💡 I enjoy transforming raw data into actionable insights.
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 👩‍💻 About Me
 
-### 💻 Languages
+Hello There! **I'm ANANYA SINHA MAHAPATRA.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+🎓 Final-Year Computer Science Student
 
-### 📊 Data Analytics
+📊 Passionate about Data Analytics, Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+🐍 Strong foundation in Python Programming
 
-### ⚙️ Tools
+📈 Love building dashboards and discovering insights from data
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+🚀 Always excited to learn new technologies and solve real-world problems
+
+---
+
+### 🎓 Education
+
+**OmDayal Group of Institutions**
+
+Computer Science & Engineering
+
+Expected Graduation: 2027
+
+---
+
+# 🛠 Technologies
+
+### Programming
+
+`Python` • `SQL` • `C`
+
+### Data Analytics
+
+`Power BI` • `Excel`
+
+`Pandas` • `NumPy`
+
+`Matplotlib` • `Seaborn`
+
+### Tools
+
+`Git` • `GitHub`
+
+`VS Code`
+
+`Jupyter Notebook`
 
 ---
 
 # 📂 Featured Project
 
-## 🏏 IPL T20 Analysis Dashboard (2008–2025)
+## 🏏 IPL T20 Analysis Dashboard
 
-📈 Interactive Power BI dashboard built to analyze IPL statistics and team performances.
+Interactive Power BI dashboard covering IPL data from 2008–2025.
 
-### Highlights
+### Features
 
-✅ Season-wise Analysis
+✔ Team Performance Analysis
 
-✅ Team Performance Insights
+✔ Season-wise Statistics
 
-✅ Orange Cap & Purple Cap Statistics
+✔ Orange Cap & Purple Cap Insights
 
-✅ Interactive Points Table
+✔ Interactive Visualizations
 
-✅ Dynamic Visualizations
+✔ Data Storytelling
 
 ### Tools Used
 
-🔹 Power BI
-
-🔹 DAX
-
-🔹 Data Analytics
-
-🔹 Data Visualization
+`Power BI` • `DAX` • `Data Analytics`
 
 ---
 
@@ -103,42 +111,19 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ananya137-hash&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya137-hash&theme=tokyo-night"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
-<p align="center">
+💼 LinkedIn:
+www.linkedin.com/in/ananya-sinha-mahapatra-9628b5247
 
-<a href="https://www.linkedin.com/in/ananya-sinha-mahapatra-9628b5247/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+🐙 GitHub:
+github.com/Ananya137-hash
 
-<a href="https://github.com/Ananya137-hash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+📧 Email:
+your-email@example.com
 
 ---
 
-# ✨ Fun Fact
+### ✨ Quote
 
-💭 "Data tells stories. I love discovering them."
-
-⭐ Thanks for visiting my profile! Have a great day! 🚀
-
-
+> "Transforming data into insights, and insights into impact."
