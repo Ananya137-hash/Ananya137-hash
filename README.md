@@ -27,9 +27,10 @@
 🌱 Currently learning:
 - Machine Learning
 - Power BI
-- Advanced Python
+- Python
 - SQL
 - Data Analytics
+
 
 💡 I enjoy transforming raw data into actionable insights.
 
