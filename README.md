@@ -4,15 +4,11 @@
 
 ### 💻 Computer Science Student | 📊 Data Analytics Enthusiast | 🐍 Python Developer
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ananya-sinha-mahapatra-9628b5247">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ananya.mahapatra@example.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge"/>
 </a>
 
@@ -26,59 +22,32 @@
 
 # 👩‍💻 About Me
 
-Hello There! **I'm ANANYA SINHA MAHAPATRA.**
-
-🎓 Final-Year Computer Science Student
-
-📊 Passionate about Data Analytics, Data Science & Machine Learning
-
-🐍 Strong foundation in Python Programming
-
-📈 Love building dashboards and discovering insights from data
-
-🚀 Always excited to learn new technologies and solve real-world problems
-
----
-
-### 🎓 Education
-
-**OmDayal Group of Institutions**
-
-Computer Science & Engineering
-
-Expected Graduation: 2026
+Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Student at OmDayal Group of Institutions (Expected Graduation: 2026). I'm passionate about Data Analytics, Data Science & Machine Learning with a strong foundation in Python Programming. I love building dashboards and discovering insights from data. Always excited to learn new technologies and solve real-world problems!
 
 ---
 
 # 🛠 Technologies
 
-### Programming
+<div align="center">
 
-`Python` • `SQL` • `C`
+![BASH SCRIPTING](https://img.shields.io/badge/BASH%20SCRIPTING-000000?style=flat)
+![LINUX](https://img.shields.io/badge/LINUX-000000?style=flat)
+![DOCKER](https://img.shields.io/badge/DOCKER-000000?style=flat)
+![GIT](https://img.shields.io/badge/GIT-000000?style=flat)
+![PANDAS](https://img.shields.io/badge/PANDAS-000000?style=flat)
+![NUMPY](https://img.shields.io/badge/NUMPY-000000?style=flat)
+![MYSQL](https://img.shields.io/badge/MYSQL-000000?style=flat)
 
-### Data Analytics
+![SQLITE](https://img.shields.io/badge/SQLITE-000000?style=flat)
+![VIM](https://img.shields.io/badge/VIM-000000?style=flat)
+![TMUX](https://img.shields.io/badge/TMUX-000000?style=flat)
+![BURP SUITE](https://img.shields.io/badge/BURP%20SUITE-000000?style=flat)
 
-`Power BI` • `Excel`
-
-`Pandas` • `NumPy`
-
-`Matplotlib` • `Seaborn`
-
-### Tools
-
-`Git` • `GitHub`
-
-`VS Code`
-
-`Jupyter Notebook`
-
-
-
-
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ananya137-hash&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -93,14 +62,11 @@ Expected Graduation: 2026
 
 # 🌐 Connect With Me
 
-💼 LinkedIn:
-www.linkedin.com/in/ananya-sinha-mahapatra-9628b5247
+💼 LinkedIn: [ananya-sinha-mahapatra-9628b5247](https://www.linkedin.com/in/ananya-sinha-mahapatra-9628b5247)
 
-🐙 GitHub:
-github.com/Ananya137-hash
+🐙 GitHub: [Ananya137-hash](github.com/Ananya137-hash)
 
-📧 Email:
-your-email@example.com
+📧 Email: [ananya.mahapatra@example.com](mailto:ananya.mahapatra@example.com)
 
 ---
 
