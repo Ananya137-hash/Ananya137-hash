@@ -10,6 +10,7 @@
 
 <a href="mailto:sinhaananya0193@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge"/>
+  
 </a>
 
 
@@ -28,6 +29,7 @@ Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Stude
 # 🛠 Technologies
 
 <div align="center">
+
 
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python)
