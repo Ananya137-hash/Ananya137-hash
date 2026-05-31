@@ -22,7 +22,9 @@
 
 # 👩‍💻 About Me
 
-Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Student at OmDayal Group of Institutions (Expected Graduation: 2026). I'm passionate about Data Analytics, Data Science & Machine Learning. I love exploring data patterns and building data-driven solutions.
+Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Student at OmDayal Group of Institutions with skilled in Python, Data Analytics,Data Processing , Data Science & Machine Learning. I love exploring data patterns and building data-driven solutions.
+
+**🎓 Studying at Omdayal Group of Institutions**
 
 ---
 
