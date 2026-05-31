@@ -12,11 +12,7 @@
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge"/>
 </a>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ananya137-hash&label=PROFILE+VISITORS&style=for-the-badge&color=0e75b6"/>
-
-</div>
 
 ---
 
