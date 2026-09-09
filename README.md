@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ananya Sinha Mahapatra
 
-### 💻 Computer Science Student | 📊 Data Analytics Enthusiast | 🐍 Python Developer
+### 💻 Computer Science Graduate | 📊 Data Analytics Enthusiast | 🐍 Python Developer
 
 <a href="https://www.linkedin.com/in/ananya-sinha-mahapatra-9628b5247">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge"/>
@@ -19,10 +19,10 @@
 
 # 👩‍💻 About Me
 
-Hello There! **I'm ANANYA SINHA MAHAPATRA**, a final-year Computer Science Student at OmDayal Group of Institutions with skilled in Python, Data Analytics,Data Processing , Data Science & Machine Learning. I love exploring data patterns and building data-driven solutions.
+Hello There! **I'm ANANYA SINHA MAHAPATRA**, a BTech Computer Science Graduate from OmDayal Group of Institutions by maintaining 8.2 CGPA and skilled in Python, Data Analytics ,Data Processing , Data Science & Machine Learning. I love exploring data patterns and building data-driven solutions , and Development .
 <div align="center">
   
-**🎓 Studying at Omdayal Group of Institutions**
+
 
 ---
 
